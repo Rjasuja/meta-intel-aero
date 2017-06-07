@@ -17,6 +17,7 @@ IMAGE_INSTALL += "gstreamer1.0 gst-player \
 				mavlink-router \
 				efibootmgr \
 				camera-streaming-daemon \
+				notify-led \
 				"
 
 # Allow to easily copy files to/from host
